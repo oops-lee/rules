@@ -3,6 +3,6 @@
   "icons": [
     { "name": "sougou", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/sougou.png" },
     { "name": "apple", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/apple.png" },
-    { "name": "supercell1", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/supercell.png" },
+    { "name": "supercell", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/supercell.png" },
   ]
 }

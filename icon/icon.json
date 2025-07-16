@@ -1,10 +1,10 @@
 {
   "name": "Self-use surge icons",
   "icons": [
-    { "name": "sougou", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/sougou.png" },
-    { "name": "apple", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/apple.png" },
-    { "name": "supercell", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/supercell.png" },
-    { "name": "oyunfor", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/oyunfor.webp" },
-    { "name": "v2ex", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/v2ex.png" },
+    { "name": "sougou", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/images/sougou.png" },
+    { "name": "apple", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/images/apple.png" },
+    { "name": "supercell", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/images/supercell.png" },
+    { "name": "oyunfor", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/images/oyunfor.webp" },
+    { "name": "v2ex", "url": "https://raw.githubusercontent.com/oops-lee/rules/main/icon/images/v2ex.png" }
   ]
 }
